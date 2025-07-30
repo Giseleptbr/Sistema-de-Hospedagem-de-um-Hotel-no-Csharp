@@ -10,7 +10,7 @@ namespace Models
         public List<Pessoa> Hospedes { get; private set; } = new List<Pessoa>();
 
         // A suíte que foi reservada
-        public Suite Suite { get; private set; }
+        public Suite? Suite { get; private set; }
 
         // Quantidade de dias reservados
         public int DiasReservados { get; set; }

@@ -1,0 +1,15 @@
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/bin/Debug/net9.0/Sistema de hospedagem Csharp
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/bin/Debug/net9.0/Sistema de hospedagem Csharp.deps.json
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/bin/Debug/net9.0/Sistema de hospedagem Csharp.runtimeconfig.json
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/bin/Debug/net9.0/Sistema de hospedagem Csharp.dll
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/bin/Debug/net9.0/Sistema de hospedagem Csharp.pdb
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.AssemblyInfoInputs.cache
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.AssemblyInfo.cs
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.csproj.CoreCompileInputs.cache
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.sourcelink.json
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.dll
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/refint/Sistema de hospedagem Csharp.dll
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.pdb
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/Sistema de hospedagem Csharp.genruntimeconfig.cache
+/Users/giselefonseca/Documents/Sistema de hospedagem Csharp/Sistema-de-Hospedagem-de-um-Hotel-no-Csharp/obj/Debug/net9.0/ref/Sistema de hospedagem Csharp.dll
